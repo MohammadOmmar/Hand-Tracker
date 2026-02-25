@@ -1,2 +1,8 @@
-# Hand-Tracker
-This project is a lightweight hand-tracking demo built with HTML, JavaScript, and a browser-based machine learning library. It uses the webcam to detect and track hand landmarks in real time, allowing you to visualize hand positions directly on the screen. The code is simple and beginner-friendly.
+# hand pen 
+
+### how to use it:
+
+1. allow camera access
+2. **hold the SHIFT key** on your keyboard to start drawing ink (this is the trick to make it look clean without the ink dragging everywhere)
+3. let go of shift to move your hand to the next letter
+4. hit the spacebar if u mess up and want to clear the screen
